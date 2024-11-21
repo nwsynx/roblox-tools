@@ -1,0 +1,16 @@
+{
+    "antiafk-spin": false,
+    "antiafk-move": true,
+    "antiafk-emotes": false,
+    "antiafk-click": true,
+    "antiafk-jump": true,
+    "pp-letter": "E",
+    "pp-duration": 1.9000002145767212,
+    "sleep-interval": 0.7999999523162842,
+    "always-on-top": true,
+    "autoclicker-interval": 0.10000000149011612,
+    "autoclicker-repeat": 10,
+    "autoclicker-toggle-bind": "insert",
+    "antiafk-toggle-bind": "home",
+    "pp-toggle-bind": "end"
+}
